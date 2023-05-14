@@ -1,0 +1,13 @@
+body
+{
+    text-align:center;
+    background-color:rgb(245, 255, 240);
+}
+
+h2
+{
+  font-style:oblique;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:15px;
+  color:lavender;;
+}
